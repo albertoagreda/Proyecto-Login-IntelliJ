@@ -48,3 +48,26 @@ Este proyecto presenta **3 diseños diferentes** de una interfaz de inicio de se
 ---
 
 ## 📂 Estructura del proyecto
+📦 Proyecto-Login-IntelliJ
+┣ 📂 src
+┃ ┣ LoginClasico.form / .java
+┃ ┣ LoginExtendido.form / .java
+┃ ┗ LoginCreativo.form / .java
+┣ 📂 docs
+┃ ┣ captura1.png
+┃ ┣ captura2.png
+┃ ┗ captura3.png
+┗ README.md
+
+
+---
+
+## 🎯 Objetivo académico
+Esta práctica forma parte de la asignatura de **Diseño de Interfaces**, evaluando:
+- Creación de interfaces con GUI Designer.  
+- Uso de componentes y propiedades avanzadas.  
+- Creatividad y claridad en la presentación.  
+
+---
+👨‍💻 Autor: **Alberto Agredano**  
+📍 Sevilla – 2025
